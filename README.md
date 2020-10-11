@@ -1,6 +1,6 @@
 Python dispose d'opérateurs bit-à-bit (bitwise) qui agissent directement sur les nombres au niveau des bits. 
 
-**Enoncé**
+**Enoncé de l'exercice**
 
 Ecrire un programme Python qui affiche la table d'une des opérations logiques (ET, OU, OU-EXCLUSIF) pour tous les entiers de n bits. [CORRECTION]
 
